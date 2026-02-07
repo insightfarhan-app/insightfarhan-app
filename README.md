@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Farhan;Flutter+Developer+%F0%9F%93%B1;IoT+Enthusiast+%F0%9F%A4%96;Founder+of+AppXplora+%F0%9F%9A%80;Head+Proctor+%40+UOSwabi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=2096F3&center=true&vCenter=true&width=550&lines=I+am+Farhan+Ijaz+%F0%9F%91%8B;BS+CS+Student+%40+University+of+Swabi+%F0%9F%8E%93;Flutter+Developer+%26+IoT+Enthusiast+%F0%9F%A4%96;Skilled+in+WordPress+%26+Android+Dev;Google+Play+Store+Publisher+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://appxplora.tech">
+  <a href="https://farhanappdev.netlify.app">
     <img src="https://img.shields.io/badge/Website-AppXplora.tech-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:farhanappdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/insightfarhan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -24,7 +24,7 @@ I am a final-year **Computer Science Student** at the **University of Swabi** an
 - 🚀 I recently launched **EasyInvoice** and **Kameti** on the Google Play Store.
 - 🌱 I’m currently learning **Cybersecurity & Advanced State Management**.
 - 🤝 I collaborate closely with **Saad Khan** on mobile dev projects.
-- ⚡ **Fun fact:** I balance coding with leadership as the **Head Proctor** at my university.
+- ⚡ **Fun fact:** I am a **Google Play Store Publisher** with live apps serving real users.
 
 ---
 
@@ -56,34 +56,36 @@ I am a final-year **Computer Science Student** at the **University of Swabi** an
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
   
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/PUT_YOUR_USERNAME_HERE">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PUT_YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/PUT_YOUR_USERNAME_HERE">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUT_YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PUT_YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 🏆 Featured Projects
 
-| **App Name** | **Description** | **Tech Stack** |
+| **Project Name** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-| **EasyInvoice** | Professional billing & invoicing app for businesses. | `Flutter` `Firebase` `PDF Generation` |
-| **Kameti** | Chit Fund Manager to manage finance circles easily. | `Flutter` `Local DB` `State Mgmt` |
-| **Smart Lab** | IoT automation system for university labs. | `ESP32` `Sensors` `C++` |
+| **🩸 HopeConnect** | A life-saving blood donation platform connecting donors with patients in real-time. | `Flutter` `Firebase` |
+| **🛒 Bazaario** | Complete multi-app E-commerce system (Customer App + Admin Dashboard). | `Flutter` `GetX` `Backend Integration` |
+| **🤝 Kameti** | *Collab with Saad Khan* – A digital Chit Fund Manager for managing finance circles. | `Flutter` `Local DB` `State Mgmt` |
+| **🧾 EasyInvoice** | Professional billing & invoicing generator for small businesses. | `Flutter` `PDF Generation` `GetStorage` |
+| **🤖 Smart Lab** | IoT-based automation system for university labs (Final Year Project). | `ESP32` `C++` `IoT Sensors` |
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=insightfarhan-app&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=PUT_YOUR_USERNAME_HERE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <br />
   <p><i>"Protecting systems, building apps, and automating the future."</i></p>
 </div>
