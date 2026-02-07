@@ -23,7 +23,6 @@ I am a final-year **Computer Science Student** at the **University of Swabi** an
 - 🔭 I’m currently working on my FYP: **Smart Lab Automation System (ESP32 + IoT)**.
 - 🚀 I recently launched **EasyInvoice** and **Kameti** on the Google Play Store.
 - 🌱 I’m currently learning **Cybersecurity & Advanced State Management**.
-- 🤝 I collaborate closely with **Saad Khan** on mobile dev projects.
 - ⚡ **Fun fact:** I am a **Google Play Store Publisher** with live apps serving real users.
 
 ---
