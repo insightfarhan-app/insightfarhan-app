@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://farhanappdev.netlify.app">
-    <img src="https://img.shields.io/badge/Website-AppXplora.tech-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:farhanappdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -18,8 +18,7 @@
 
 ### 👨‍💻 About Me
 
-I am a final-year **Computer Science Student** at the **University of Swabi** and the **Founder of AppXplora**. My passion lies in building scalable mobile applications and connecting hardware with software through IoT. Currently, I am also exploring the world of **Ethical Hacking** to build more secure systems.
-
+I am a final-year **Computer Science Student** at the **University of Swabi** and the **Founder of AppXplora**. My passion lies in building scalable mobile applications and connecting hardware with software through IoT. 
 - 🔭 I’m currently working on my FYP: **Smart Lab Automation System (ESP32 + IoT)**.
 - 🚀 I recently launched **EasyInvoice** and **Kameti** on the Google Play Store.
 - 🌱 I’m currently learning **Cybersecurity & Advanced State Management**.
