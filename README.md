@@ -66,7 +66,7 @@ I am a final-year **Computer Science Student** at the **University of Swabi** an
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PUT_YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=insightfarhan-app&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
