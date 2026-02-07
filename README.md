@@ -83,7 +83,7 @@ I am a final-year **Computer Science Student** at the **University of Swabi** an
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=insightfarhan-app&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <br />
   <p><i>"Protecting systems, building apps, and automating the future."</i></p>
 </div>
