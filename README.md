@@ -55,10 +55,10 @@ I am a final-year **Computer Science Student** at the **University of Swabi** an
   <h3>📊 GitHub Analytics</h3>
   
   <a href="https://github.com/PUT_YOUR_USERNAME_HERE">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PUT_YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=insightfarhan-app&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/PUT_YOUR_USERNAME_HERE">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUT_YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/insightfarhan-app">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insightfarhan-app&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
@@ -83,7 +83,7 @@ I am a final-year **Computer Science Student** at the **University of Swabi** an
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PUT_YOUR_USERNAME_HERE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=insightfarhan-app&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <br />
   <p><i>"Protecting systems, building apps, and automating the future."</i></p>
 </div>
